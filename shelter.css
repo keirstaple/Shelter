@@ -5,7 +5,8 @@
   padding: 4px;
   margin: 12px;
   background-color: teal;
-  display: block;
+  display: webkit-flex;
+  
 }
 .column p{
   font-size: 30px;
